@@ -18,7 +18,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Nils. I am a web developer and translator
+          Hello, I'm Nils Matic. I am a web developer and translator
           (English/German/Spanish). I hope you enjoy my work.
         </p>
         <p>
